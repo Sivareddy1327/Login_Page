@@ -1,0 +1,14 @@
+td,th,table{
+    border: 1px solid gray;
+}
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: blueviolet;
+    color : white;
+}
+tr:hover {
+    background-color: teal;
+}
